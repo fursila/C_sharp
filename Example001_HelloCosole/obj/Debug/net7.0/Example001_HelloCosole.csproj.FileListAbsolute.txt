@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\bin\Debug\net7.0\Example001_HelloCosole.exe
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\bin\Debug\net7.0\Example001_HelloCosole.deps.json
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\bin\Debug\net7.0\Example001_HelloCosole.runtimeconfig.json
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\bin\Debug\net7.0\Example001_HelloCosole.dll
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\bin\Debug\net7.0\Example001_HelloCosole.pdb
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\obj\Debug\net7.0\Example001_HelloCosole.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\obj\Debug\net7.0\Example001_HelloCosole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\obj\Debug\net7.0\Example001_HelloCosole.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\obj\Debug\net7.0\Example001_HelloCosole.AssemblyInfo.cs
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\obj\Debug\net7.0\Example001_HelloCosole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\obj\Debug\net7.0\Example001_HelloCosole.dll
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\obj\Debug\net7.0\refint\Example001_HelloCosole.dll
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\obj\Debug\net7.0\Example001_HelloCosole.pdb
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\obj\Debug\net7.0\Example001_HelloCosole.genruntimeconfig.cache
+C:\Users\User\Desktop\Examples\Example001_HelloCosole\obj\Debug\net7.0\ref\Example001_HelloCosole.dll
